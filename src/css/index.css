@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap');
+
+:root {
+    --rosa: #D991B9;
+    --roxo: #453159;
+    --lilas: #A993BF;
+    --lilas-escuro: #7C68A6;
+}
+
+* {
+    font-family: 'Poppins', 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--lilas-escuro);
+    color: whitesmoke !important;
+}
