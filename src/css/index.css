@@ -18,11 +18,13 @@ body {
     background-color: var(--lilas-escuro);
 }
 
-.group-card {
-    height: 18rem !important;
-    overflow: hidden;
-}
-
 .card {
     background-color: var(--roxo);
+}
+
+@media (min-width: 768px) { 
+    .group-card {
+        height: 18rem !important;
+        overflow: hidden;
+    }
 }
