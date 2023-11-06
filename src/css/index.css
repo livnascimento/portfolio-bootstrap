@@ -11,7 +11,11 @@
     font-family: 'Poppins', 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    color: whitesmoke !important;
+    color: #ececec !important;
+}
+
+.navbar-nav > li > a.active {
+    color: white !important;
 }
 
 body {
